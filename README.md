@@ -1,4 +1,4 @@
-# deep_learning_image_recognition
+# deep_learning_image_classification
 This repo contains deep learning models developed for image classification problems.
 
 Models:
